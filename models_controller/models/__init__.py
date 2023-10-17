@@ -1,0 +1,5 @@
+from models_controller.models.tbl_pokemon import TblPokemon
+from models_controller.models.tbl_type import TblType
+from models_controller.models.mid_pokemon_type import MidPokemonType
+from models_controller.models.mid_favorite_pokemon import MidFavoritePokemon
+from models_controller.models.tbl_account import TblAccount
